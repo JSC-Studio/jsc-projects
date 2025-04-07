@@ -14,7 +14,7 @@ This repository contains information, descriptions and privacy policies for my c
 > Eine App zur Verwaltung von Lotto-Tipps mit CSV-Export und Gewinnbenachrichtigung.  
 > An app to manage lottery picks with CSV export and win notifications.
 
-- 🛡️ [Datenschutzerklärung / Privacy Policy] *(in Arbeit)*
+- 🛡️ [Datenschutzerklärung / Privacy Policy](https://jsc-studio.github.io/jsc-projects/lottotrackx.html#datenschutz)
 
 ---
 
